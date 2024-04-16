@@ -14,3 +14,10 @@ Membuat aplikasi Learning Management System seperti Udemy.com menggunakan Codign
         ...
         new file:   system/libraries/Zip.php
         new file:   system/libraries/index.html
+
+
+#### 2. Membuat basik laman admin
+
+        modified:   README.md
+        modified:   application/controllers/Welcome.php
+        new file:   application/views/backend/index.php
