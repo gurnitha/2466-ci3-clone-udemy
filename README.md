@@ -21,3 +21,6 @@ Membuat aplikasi Learning Management System seperti Udemy.com menggunakan Codign
         modified:   README.md
         modified:   application/controllers/Welcome.php
         new file:   application/views/backend/index.php
+
+
+## 2. STATIC ASSETS DAN TEMPLATES
